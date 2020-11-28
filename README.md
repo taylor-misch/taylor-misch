@@ -25,14 +25,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Taylor's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=taylor-misch&show_icons=true&hide_border=true" />
-
-</details>
-
-
 [website]: https://taylormisch.com
 [linkedin]: https://linkedin.com/in/taylor-misch
 
